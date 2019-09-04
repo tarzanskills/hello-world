@@ -13,7 +13,7 @@ After the program has successfully run, try each of the following
   2. Make your program print only one of the lines.
   3. Put a “#” (hash/pound) character at the beginning of a line. What did it do? Try to find out what this character does.
   4. Try the following:
-    1. Make a repository in your own account of the name 'hello-world'
-    2. Add a new file hello-world.py
-    3. Add a few print statements to it and try to run the program.
+      1. Make a repository in your own account of the name 'hello-world'
+      2. Add a new file hello-world.py
+      3. Add a few print statements to it and try to run the program.
   5. Print the numbers from 1 to 10, each on a new line.
