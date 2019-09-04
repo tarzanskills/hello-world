@@ -17,3 +17,5 @@ After the program has successfully run, try each of the following
       2. Add a new file hello-world.py
       3. Add a few print statements to it and try to run the program.
   5. Print the numbers from 1 to 10, each on a new line.
+  6. Print a string and an integer together,  without enclosing the integer in single or double quotes. See what happens.
+  7. Post a blog of your learnings today and share with your friends on Social Media.
